@@ -1,0 +1,11 @@
+Flask==2.3.3
+Flask-SQLAlchemy==3.1.1
+Flask-JWT-Extended==4.5.2
+Flask-Migrate==4.0.5
+Flask-Cors==4.0.0
+passlib==1.7.4
+PyJWT==2.8.0
+Werkzeug==2.3.7
+python-dotenv==1.0.0
+SQLAlchemy==2.0.21
+email-validator==2.0.0.post2
